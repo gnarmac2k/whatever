@@ -5,6 +5,6 @@ readme update 1
 # How To Be Cool
 - [x] Run
 - [x] Jump
-- [] Get Tan
+- [x] Go Tanning
 
-![image](C:\Users\Richard McConkie\whatever\images\coolguy.png)
+![image](images\coolguy.png)
