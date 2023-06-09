@@ -7,4 +7,4 @@ readme update 1
 - [x] Jump
 - [x] Go Tanning
 
-![image](images\coolguy.png)
+![image](whatever\images\coolguy.png)
